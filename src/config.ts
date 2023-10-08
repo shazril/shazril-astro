@@ -4,8 +4,8 @@ export const SITE: Site = {
   website: "https://shazril.com/",
   author: "Shazril Shohaimi",
   desc: "Laugh, live, learn",
-  title: "Shazril Shohaimi",
-  ogImage: "astropaper-og.jpg",
+  title: "Shazril's Blog",
+  //ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerPage: 8,
 };

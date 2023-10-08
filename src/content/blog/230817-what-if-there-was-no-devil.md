@@ -1,6 +1,6 @@
 ---
 title: What if there was no devil for one day?
-author: Shaszril Shohaimi
+author: Shazril Shohaimi
 pubDatetime: 2023-08-17T05:06:31Z
 postSlug: what-if-there-was-no-devil
 featured: false
