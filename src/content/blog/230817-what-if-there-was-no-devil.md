@@ -8,6 +8,7 @@ draft: false
 tags:
   - Life
 description: In the absence of the devil, Hafiz and me discuss the implications on sales and commerce.
+type: default
 ---
 
 A friend of mine, Hafiz from Sales, asked randomly, “Have you ever wondered if there is no devil, just for one day?”
