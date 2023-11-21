@@ -20,7 +20,7 @@ Business owner and entrepreneur with 8+ years of experience in developing high-e
 ## Projects
 
 - Lead the development project for online crane maintenance reporting system using DotNet Core 6 and PostgreSQL
-- Managed marketing activities for brands, namely [ASPO Mobility](https://aspomobility.com/), [Tuah Development Center](https://tuahdc.com/) and [Osem.me](https://osem.me/).
+- Managed marketing activities for brands, namely [ASPO Mobility](https://aspomobility.com.my/), [Tuah Development Center](https://tuahdc.com/) and [Osem.me](https://osem.me/).
 - Developed web-based MES applications using ASP.Net MVC 5.2, Bootstrap 3, HTML5, CSS, and JavaScript
 - Established B2B ETL using Python 3, MS SQL Server, and XML
 - Upgraded and migrated Microsoft SQL Server databases from version 2000 and 2005 to 2014
